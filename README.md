@@ -1,10 +1,9 @@
-Cloud messaging API (legacy) disabled | How to Send Flutter Push Notifications with Firebase HTTP v1 by Techi4u
+Cloud messaging API (legacy) disabled | How to Send Flutter Push Notifications with Firebase HTTP v1 by Abhishek
 
 🚫 Worried about the Cloud Messaging API (Legacy) being disabled? Learn how to send push notifications using Firebase HTTP v1 API! 📲🔥
 
 😱 Has your Cloud Messaging API (Legacy) been disabled? No problem! In this video, we'll show you step-by-step how to send Flutter push notifications using the Firebase HTTP v1 API. 🚀 Whether you're a beginner or an experienced developer, follow along to ensure your app keeps delivering timely notifications. Perfect for upgrading your skills! 🎯
 
-I hope you have learned something new from this video, If you like the video, be sure to like our video and subscribe to our channel “Techi4u”.
 
 Migrating from Legacy FCM APIs to HTTP v1 Firebase Push Notifications
 1. Why Migrate?
